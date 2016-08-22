@@ -1,0 +1,14 @@
+layout_spectrum: 0.6431466802023351
+typography_spectrum: 0.9317479259334505
+color:
+  brandStrength: 0.583219755673781
+  lightness: 0.4636996597982943
+  saturation: 0.6595660701859742
+  rhythmicContrast: 0.015230281744152308
+  brandColors:
+    - '#FEFEFE'
+    - '#050706'
+    - '#907C64'
+    - '#7A1100'
+    - '#FE996B'
+name: Framework
